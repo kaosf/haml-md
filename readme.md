@@ -37,8 +37,9 @@ cd
 
 http://ka-haml-md.herokuapp.com
 
-## Reference
+## References
 
+* [Haml Documentation - Whitespace Preservation: ~](http://haml.info/docs/yardoc/file.REFERENCE.html#tilde)
 * [Haml と markdown を組み合わせるときの注意点 #Ruby #Markdown #Sinatra #haml - Qiita [キータ]](http://qiita.com/items/ac3082890bf90a6df0c5)
 * [haml中のpreタグ問題 - komagata](http://docs.komagata.org/4250)
 * [hamlでtext_areaを使う時のメモ - Hello, world! - s21g](http://blog.s21g.com/articles/1462)
