@@ -31,7 +31,7 @@ cd
     ls
 ```
 
-"~" makes your code block in the markdown file to be generated with "&amp;#x000A;". "&amp;#x000A;" is "\n".
+"~" makes your code block in the markdown file to be converted with "&amp;#x000A;". "&amp;#x000A;" is "\n".
 
 ## Sample
 
